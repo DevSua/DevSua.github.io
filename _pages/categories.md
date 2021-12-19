@@ -1,7 +1,6 @@
 ---
+title: "Posts by Category"
+layout: categories
 permalink: /categories/
-title: "Category"
+author_profile: true
 ---
-
-안녕하십니가
-
