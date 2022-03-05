@@ -20,11 +20,8 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7-x64-mingw32)
-<<<<<<< HEAD
     faraday (1.10.0)
-=======
-    faraday (1.9.3)
->>>>>>> cb5210a0493aaff2c86a3adb7d1d369a2a82c302
+
       faraday-em_http (~> 1.0)
       faraday-em_synchrony (~> 1.0)
       faraday-excon (~> 1.1)
@@ -118,17 +115,9 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-<<<<<<< HEAD
   jekyll (~> 4.2.2)
-=======
-  jekyll (~> 4.2.1)
->>>>>>> cb5210a0493aaff2c86a3adb7d1d369a2a82c302
-  minimal-mistakes-jekyll!
   rake (>= 12.3.3)
 
 BUNDLED WITH
-<<<<<<< HEAD
    2.3.8
-=======
-   2.3.5
->>>>>>> cb5210a0493aaff2c86a3adb7d1d369a2a82c302
+
